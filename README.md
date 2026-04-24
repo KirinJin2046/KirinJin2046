@@ -15,14 +15,6 @@ Building AI agents and hardware. Investing in what's next.
 
 ---
 
-### Now
-
-- 🔭 Working on AI Agent & AI Hardware projects
-- 💬 Ask me about **AI Agents, AI Hardware, AI Investment, Content Creation**
-- 📫 Reach me at **kirin.ai.700@gmail.com**
-
----
-
 ### Find Me Online
 
 [![X](https://img.shields.io/badge/X-@KirinJin2046-000?style=flat&logo=x&logoColor=white)](https://x.com/KirinJin2046)
@@ -30,8 +22,3 @@ Building AI agents and hardware. Investing in what's next.
 [![公众号](https://img.shields.io/badge/公众号-Kirin_JIN-07C160?style=flat&logo=wechat&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-kirin.ai.700@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kirin.ai.700@gmail.com)
 
----
-
-### GitHub Stats
-
-![Kirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirinJin2046&show_icons=true&hide_border=true)
